@@ -15,7 +15,7 @@ var
 	rkeyEvent = /^key/,
 	rmouseEvent = /^(?:mouse|pointer|contextmenu|drag|drop)|click/,
 	rtypenamespace = /^([^.]*)(?:\.(.+)|)/;
-
+ content ="sdf";
 function returnTrue() {
 	return true;
 }
